@@ -1,0 +1,79 @@
+Recruiter Name: Alice
+Location: New York
+Experience Years: 7
+Industry: Software
+Lower Bound Salary: 10
+Upper Bound Salary: 20
+Required Skills: cpp: 5, python: 3
+
+Recruiter Name: Bob
+Location: San Francisco
+Experience Years: 5
+Industry: Software
+Lower Bound Salary: 15
+Upper Bound Salary: 25
+Required Skills: cpp: 7, python: 6
+
+Recruiter Name: Carol
+Location: Chicago
+Experience Years: 10
+Industry: Finance
+Lower Bound Salary: 30
+Upper Bound Salary: 40
+Required Skills: stocks: 6, trading: 9
+
+Recruiter Name: Dave
+Location: Austin
+Experience Years: 4
+Industry: Software
+Lower Bound Salary: 20
+Upper Bound Salary: 30
+Required Skills: java: 8, cpp: 10, python: 4
+
+Recruiter Name: Sarvan
+Location: Ropar
+Experience Years: 5
+Industry: SoftSkill
+Lower Bound Salary: 50
+Upper Bound Salary: 60
+Required Skills: japanese: 9, english: 10
+
+Recruiter Name: Emma
+Location: Seattle
+Experience Years: 6
+Industry: Marketing
+Lower Bound Salary: 40
+Upper Bound Salary: 50
+Required Skills: SEO: 8, Content Creation: 7
+
+Recruiter Name: Frank
+Location: Miami
+Experience Years: 8
+Industry: IT
+Lower Bound Salary: 35
+Upper Bound Salary: 45
+Required Skills: Network Security: 9, Cloud Computing: 8
+
+Recruiter Name: Grace
+Location: Boston
+Experience Years: 9
+Industry: Human Resources
+Lower Bound Salary: 12
+Upper Bound Salary: 44
+Required Skills: Recruitment: 10, Employee Relations: 9
+
+Recruiter Name: Henry
+Location: Austin
+Experience Years: 7
+Industry: Engineering
+Lower Bound Salary: 25
+Upper Bound Salary: 35
+Required Skills: Mechanical Design: 8, Project Management: 7
+
+Recruiter Name: Isabella
+Location: Denver
+Experience Years: 4
+Industry: Sales
+Lower Bound Salary: 20
+Upper Bound Salary: 30
+Required Skills: Sales Strategy: 6, Customer Relationship: 7
